@@ -12,7 +12,6 @@
         <PackageReference Include="Microsoft.EntityFrameworkCore.InMemory" Version="8.0.1" />
         <PackageReference Include="Microsoft.Extensions.Compliance.Redaction" Version="8.1.0" />
         <PackageReference Include="Microsoft.Extensions.Telemetry" Version="8.1.0" />
-        <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0"/>
     </ItemGroup>
 
 </Project>
